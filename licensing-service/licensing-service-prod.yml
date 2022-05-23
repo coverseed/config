@@ -1,5 +1,5 @@
 example:
-  property: I AM PROD
+  property: I AM PROD(git)
 
 spring:
   datasource:
